@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "Testing drag and drop",
   "main": "Index.html",
+  "scripts": {
+    "postinstall": "bower install"
+  },
   "dependencies": {
     "express": "^4.12.3",
     "multer": "^0.1.8"
@@ -13,5 +16,5 @@
     "drop"
   ],
   "author": "Alexis Meza",
-  "license": "ISC"
+  "license": "MIT"
 }

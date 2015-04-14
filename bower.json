@@ -1,0 +1,28 @@
+{
+  "name": "DragDrop",
+  "version": "0.0.1",
+  "homepage": "https://github.com/AlexisMeza/DragDrop",
+  "authors": [
+    "Alexis Meza <alexis.meza@gmail.com>"
+  ],
+  "description": "Drag and drop using Node.js",
+  "main": "Index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "drag",
+    "drop"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}
