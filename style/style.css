@@ -1,0 +1,17 @@
+body {
+    background-color: #A69580;
+}
+
+body > .container > .row > div {
+    background-color: #0442BF;
+    border-radius: 20px;
+    margin-top: 5%;
+    color: white;
+}
+
+#drop_zone {
+    background-color: #F2ECE4;
+    height: 200px;
+    margin-bottom: 5%;
+    color: black;
+}
